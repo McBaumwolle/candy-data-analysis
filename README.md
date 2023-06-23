@@ -31,3 +31,7 @@ hard               -0.310382
 fruity             -0.380938
 Name: winpercent, dtype: float64
 ```
+
+## Experiments
+Try these (although overkill for this task). 
+- [ ] neural net for ```winpercent```

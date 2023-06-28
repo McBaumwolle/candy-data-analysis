@@ -11,6 +11,7 @@ where  ```winpercent``` is the target variable. <br>
 ## Tasks
 - [x] setup repository
 - [x] get to know data 
+- [ ] data splitting (e.g. in nut types)
 - [ ] find possible correlations
 - [ ] visualize results
 

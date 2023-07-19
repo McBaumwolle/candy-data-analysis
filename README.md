@@ -12,8 +12,8 @@ where  ```winpercent``` is the target variable. <br>
 - [x] setup repository
 - [x] get to know data 
 - [ ] data splitting (e.g. in nut types)
-- [ ] find possible correlations
-- [ ] visualize results
+- [x] find possible correlations
+- [x] visualize results
 
 ## Results
 A simple correlation analysis with ```df.corr()``` shows the following results.

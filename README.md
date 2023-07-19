@@ -33,6 +33,16 @@ fruity             -0.380938
 Name: winpercent, dtype: float64
 ```
 
+<!-- more results to come -->
+
+I also found some interesting correlations between the popularity, sugar and price of the candy.
+
+<details><summary>Visualization</summary>
+
+![three correlations](data/analysis_3.png)
+
+</details>
+
 ## Experiments
 Try these (although overkill for this task). 
 - [ ] neural net for ```winpercent```

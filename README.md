@@ -39,7 +39,15 @@ I also found some interesting correlations between the popularity, sugar and pri
 
 <details><summary>Visualization</summary>
 
-![three correlations](data/analysis_3.png)
+![three correlations](results/analysis_a.png)
+
+</details>
+
+Looking at the number of ingredients, ther are also a number of interesting correlations.
+
+<details><summary>Visualization</summary>
+
+![three correlations](results/analysis_b.png)
 
 </details>
 
